@@ -1,0 +1,13 @@
+id,nome,cor,tamanho,tipo
+221,Geografia Agrária,#DE7E55,15,1
+222,Geopolítica,NULL,12,1
+223,Geografia Urbana,NULL,11,1
+224,Geografia Física,NULL,11,1
+225,Meio Ambiente,NULL,15,1
+226,Globalização,NULL,8,1
+227,Infraestrutura,NULL,5,1
+228,Indústria,NULL,3,1
+229,Energia,NULL,2,1
+22a,Cartografia,NULL,3,1
+22b,Clima,NULL,5,1
+22c,Demografia,#DADD55,5,1

@@ -1,0 +1,15 @@
+id,nome,cor,tamanho,tipo
+321,Físico-Química,#78DC73,20,1
+322,Química geral,NULL,20,1
+323,Química Orgânica,NULL,14,1
+324,Reações,NULL,10,1
+325,Química ambiental,NULL,3,1
+326,Energia,NULL,5,1
+327,Atomística,NULL,6,1
+328,Eletroquímica,NULL,6,1
+329,Estequiometria,NULL,7,1
+32a,Soluções,NULL,5,1
+32b,Funções,NULL,8,1
+32c,Termoquimica,NULL,4,1
+32d,Isomeria,NULL,4,1
+32e,Equilibrio quimico,#99FFD4,4,1

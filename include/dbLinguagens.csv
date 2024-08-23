@@ -1,0 +1,6 @@
+id,nome,cor,tamanho,tipo,nomeDb
+11,Português,#F7DC6E,30,0,Portugues
+12,Língua Estrangeira,NULL,5,1,Estrangeira
+13,Artes,NULL,3,0,Artes
+14,Literatura,NULL,4,0,Literatura
+15,Educação Física,#FF7629,3,1,EDFisica

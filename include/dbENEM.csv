@@ -1,0 +1,6 @@
+id,nome,cor,tamanho,tipo,nomeDb
+1,Linguagens,#F7DC6F,16.25,0,Linguagens
+2,Ciências Humanas,#E59866,16.25,0,Humanas
+3,Ciências da Natureza,#7DCEA0,16.25,0,Natureza
+4,Matemática,#85C1E9 ,16.25,0,Matematica
+5,Redação,#A569BD,35,1,Redacao

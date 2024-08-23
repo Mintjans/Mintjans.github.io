@@ -1,0 +1,14 @@
+id,nome,cor,tamanho,tipo
+331,Ecologia,#97E31C,25,1
+332,Citologia,NULL,9,1
+333,Histologia,NULL,5,1
+334,Botânica,NULL,4,1
+335,Evolução,NULL,6,1
+336,Genética,NULL,5,1
+337,Fisiologia,NULL,7,1
+338,Biologia Molecular,NULL,6,1
+339,Microbiologia,NULL,5,1
+33a,Zoologia,NULL,3,1
+33b,Biotecnologia,NULL,8,1
+33c,Ecossistemas ,NULL,4,1
+33d,Bioenergética,#47B6E6,7,1

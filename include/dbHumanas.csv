@@ -1,0 +1,5 @@
+id,nome,cor,tamanho,tipo,nomeDb
+21,História,#E59966,15,0,Historia
+22,Geografia,NULL,15,0,Geografia
+23,Sociologia,NULL,7,0,Sociologia
+24,Filosofia,#CE4040,8,0,Filosofia

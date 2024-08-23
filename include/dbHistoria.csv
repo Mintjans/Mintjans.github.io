@@ -1,0 +1,14 @@
+id,nome,cor,tamanho,tipo
+211,Brasil Colônia,#E59966,14,1
+212,Idade Contemporânea,NULL,11,1
+213,Idade Moderna,NULL,9,1
+214,Brasil Império,NULL,9,1
+215,Primeira República,NULL,6,1
+216,Era Vargas,NULL,9,1
+217,Quarta República,NULL,4,1
+218,Ditadura Militar,NULL,3,1
+219,Tempo Presente,NULL,10,1
+21a,Idade Antiga,NULL,5,1
+21b,Idade Média,NULL,6,1
+21c,Patrimônio Histórico-Cultural e Memória,NULL,8,1
+21d,Conflitos do seculo XX,#77E566,6,1

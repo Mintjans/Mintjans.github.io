@@ -1,0 +1,11 @@
+id,nome,cor,tamanho,tipo
+41,Geometria,#85C1E9 ,22,1
+42,Aritmética,NULL,18,1
+43,Estatistica,NULL,7,1
+44,Funções,NULL,11,1
+45,Probabilidade,NULL,6,1
+46,"Escala, razão e proporção",NULL,5,1
+47,Equações elementares,NULL,8,1
+48,Análise combinatória,NULL,4,1
+49,Sequências,NULL,3,1
+4a,Progressões,#E986D8,3,1

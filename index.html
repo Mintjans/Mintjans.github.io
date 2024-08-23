@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+    <!--
+        href="(link)" permite atrelar links a algum elemento do site
+        html e css é basicamente o JavaFX do Javascript
+    -->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OQUE ESTUDAR PARA O ENEM</title>
+    <link rel="stylesheet" href="./ENEMcss.css">
+</head>
+<body>
+    <section>
+        <h1>OQUE ESTUDAR PARA O ENEM</h1>
+        <!-- div container serve pra alinhar a divconteudo com o centro da tela-->
+        <div class="container">
+            <div class="divconteudo">
+                <!-- armazena o svg -->
+                <svg class="svg"></svg>
+
+                <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+                <script src="ENEMscript.js" type="module"></script>
+            </div>
+            <div class="div2"> </div>
+            <div class="div3"> </div>
+        </div>
+    </section>
+    <section>
+        <div class="parent">
+            <div class="texto">
+                <h2>Como usar o site</h2>
+                <p>
+                    Muito simples, se vc clica em uma das bolas vc abre um novo gráfico com os assuntos de dentro da bola q vc clicou. E pra voltar vc clica fora das bolas
+                </p>
+                <p>
+                    O tamanho das bolas é relacionado com a frequência que esse assunto cai na prova, ou seja, maior = mais comum cair.
+                </p>
+                <h2>Sobre mim e extras</h2>
+                <p>
+                    Prazer meu nome é Ian,
+                    eu criei esse site pra servir como um grande guia de estudos pro ENEM
+                    representando todos os conteúdos de maneira gráfica baseado no quanto eles são abordados, 
+                    além de prover links para os sites e vídeos que ensinam essas matérias.(ainda vou fazer essa parte, porem eu sou só um então talvez fique pro ano que vem)
+                </p>
+                <p>
+                    Atualmente não há nenhuma maneira direta de ajudar a manter o site,
+                    mas se você quiser me ajudar segue meu canal no yt, inclusive esse video ao lado pode ser util pra seus estudos de linguas estrangeiras
+                </p>
+                <p>
+                    Obrigado pela sua atenção e bons estudos.
+                </p>
+            </div>
+            <div class="video">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/2SLuAEmKQVk?si=dO1KQOCg9E5TTGSu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
+        </div>
+    </section>
+</body>
+</html>
